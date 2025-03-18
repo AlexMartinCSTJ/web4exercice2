@@ -1,0 +1,12 @@
+h2{
+    position: absolute;
+    right: 20px;
+    top: 0px;
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
